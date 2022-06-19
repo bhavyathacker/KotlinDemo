@@ -1,4 +1,7 @@
 /*Example no: 17 Function Expression*/
+
+@file:JvmName("First")  //by writing this our class name will be changed from FunctionExpressionKt to First
+
 fun main() {
 //    val result = add(5, 7)
 
